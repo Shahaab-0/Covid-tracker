@@ -1,2 +1,2 @@
 # Covid-tracker
- Covid-tracker using disease.sh api
+ React Covid-tracker using disease.sh api
